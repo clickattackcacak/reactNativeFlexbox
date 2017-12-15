@@ -1,1 +1,3 @@
-This is an example of react native layout using Flexbox.
+# FlexBox
+
+Projekat kroz koji je napravljen jednostavan layout uz pomoc FlexBox-a.
